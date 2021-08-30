@@ -29,4 +29,5 @@ The analysis of the elction show that:
  
  ## Challenge Overview
  
+![](https://github.com/c3crocks/Election_Analysis/blob/main/Resources/Capture.PNG)
  ## Challenge Summary
